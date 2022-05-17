@@ -1,0 +1,43 @@
+section article {
+  text-align: center;
+}
+
+.Caja1 {
+  width: 200px;
+  height: 200px;
+  background: red;
+  display: inline-block;
+  margin: 20px;
+}
+
+.Caja2 {
+  width: 200px;
+  height: 200px;
+  background: blueviolet;
+  display: inline-block;
+  margin: 20px;
+}
+
+.Caja3 {
+  width: 200px;
+  height: 200px;
+  background: palevioletred;
+  display: inline-block;
+  margin: 20px;
+}
+
+.Caja4 {
+  width: 200px;
+  height: 200px;
+  background: blanchedalmond;
+  display: inline-block;
+  margin: 20px;
+}
+
+.Caja5 {
+  width: 200px;
+  height: 200px;
+  background: greenyellow;
+  display: inline-block;
+  margin: 20px;
+}
